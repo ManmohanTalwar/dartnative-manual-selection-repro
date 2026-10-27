@@ -1,0 +1,130 @@
+[
+  {
+    "file": "ios-A-draft-selected.png",
+    "bytes": 257201,
+    "sha256": "5cc0ce067d540d9240b042369e9d29de2db742525266612453e5806babf52d52",
+    "width": 1206,
+    "height": 2622,
+    "file_capture_time_utc": "2026-10-27T14:50:14.813609+00:00"
+  },
+  {
+    "file": "ios-A-X.png",
+    "bytes": 225762,
+    "sha256": "514683b3545bdc1047fb00b58230410c616d9eef2ece19d8e11095c0206ea269",
+    "width": 1206,
+    "height": 2622,
+    "file_capture_time_utc": "2026-10-27T14:50:37.106278+00:00"
+  },
+  {
+    "file": "ios-A-unsent-selected.png",
+    "bytes": 261266,
+    "sha256": "d55b3aa073f287c8a8293d51299d520911d9ce4e108ade245226183af74f2a2f",
+    "width": 1206,
+    "height": 2622,
+    "file_capture_time_utc": "2026-10-27T14:51:33.810267+00:00"
+  },
+  {
+    "file": "ios-A-Y.png",
+    "bytes": 223601,
+    "sha256": "27b43e907cc6a516b3ecedb71cb8472035ff76465d708a720a24b9a538f60776",
+    "width": 1206,
+    "height": 2622,
+    "file_capture_time_utc": "2026-10-27T14:51:47.812715+00:00"
+  },
+  {
+    "file": "ios-B-draft-selected.png",
+    "bytes": 256420,
+    "sha256": "184577dd8b979036137b005e7316ff4b81a994b7c181de1a7160929f5ffbb852",
+    "width": 1206,
+    "height": 2622,
+    "file_capture_time_utc": "2026-10-27T14:53:35.181242+00:00"
+  },
+  {
+    "file": "ios-B-X.png",
+    "bytes": 224811,
+    "sha256": "bc8b3df52cdb630bb7ba79baf79e9bfcc9a1fb76185aaf7ec0484ffb238d19b0",
+    "width": 1206,
+    "height": 2622,
+    "file_capture_time_utc": "2026-10-27T14:53:55.403717+00:00"
+  },
+  {
+    "file": "ios-B-unsent-selected.png",
+    "bytes": 260602,
+    "sha256": "a211fe3d8739efa8f0cfd7ee9e7c4dfd951aefdc929b3136bf2dfadd3cfd0294",
+    "width": 1206,
+    "height": 2622,
+    "file_capture_time_utc": "2026-10-27T14:54:36.810685+00:00"
+  },
+  {
+    "file": "ios-B-Y.png",
+    "bytes": 223055,
+    "sha256": "fe8ecf00a0223b6579f7ad252c4d6f54a430218792eb27a1e97792c7c76dd89b",
+    "width": 1206,
+    "height": 2622,
+    "file_capture_time_utc": "2026-10-27T14:55:04.755737+00:00"
+  },
+  {
+    "file": "android-A-draft-selected-settled.png",
+    "bytes": 183685,
+    "sha256": "72838cd9cb9e6373980746de95679a2567348bbb7efd7f3302057a50f6cca8f4",
+    "width": 1344,
+    "height": 2992,
+    "file_capture_time_utc": "2026-10-27T14:49:20.521613+00:00"
+  },
+  {
+    "file": "android-A-first-replacement.png",
+    "bytes": 170445,
+    "sha256": "b5e2d6fea64157973f3ab9ab1534f0cbc1d7d2536ed585f66a469be138a8a9cb",
+    "width": 1344,
+    "height": 2992,
+    "file_capture_time_utc": "2026-10-27T14:49:31.317862+00:00"
+  },
+  {
+    "file": "android-A-post-edit-unsent-selected.png",
+    "bytes": 180562,
+    "sha256": "1240456a3702257a4d779eb1f16bd2050c9332bbc3ccbc58279ede03faa37a39",
+    "width": 1344,
+    "height": 2992,
+    "file_capture_time_utc": "2026-10-27T14:49:49.049454+00:00"
+  },
+  {
+    "file": "android-A-second-replacement.png",
+    "bytes": 168206,
+    "sha256": "76ac562056f480122b62a8d328fe68676856a0f39deb31e9c4fc39666a1422f5",
+    "width": 1344,
+    "height": 2992,
+    "file_capture_time_utc": "2026-10-27T14:50:06.045979+00:00"
+  },
+  {
+    "file": "android-B-draft-selected-settled.png",
+    "bytes": 182038,
+    "sha256": "a3cb617a1cb6e8671b4b01413a19d33f6a445e5da94fe05d9f25d2eb334839b4",
+    "width": 1344,
+    "height": 2992,
+    "file_capture_time_utc": "2026-10-27T14:52:16.817789+00:00"
+  },
+  {
+    "file": "android-B-first-replacement.png",
+    "bytes": 169722,
+    "sha256": "819f9fbe611352c3e8f35d23a04ba984c86a4318b169f695540271091af58f99",
+    "width": 1344,
+    "height": 2992,
+    "file_capture_time_utc": "2026-10-27T14:53:01.872172+00:00"
+  },
+  {
+    "file": "android-B-post-edit-unsent-selected.png",
+    "bytes": 180562,
+    "sha256": "1240456a3702257a4d779eb1f16bd2050c9332bbc3ccbc58279ede03faa37a39",
+    "width": 1344,
+    "height": 2992,
+    "file_capture_time_utc": "2026-10-27T14:53:21.294169+00:00"
+  },
+  {
+    "file": "android-B-second-replacement.png",
+    "bytes": 167492,
+    "sha256": "a3dfea6e92e17fdf1293edd934370746b6942dfc2bddf5f9e77aaba9b99fef69",
+    "width": 1344,
+    "height": 2992,
+    "file_capture_time_utc": "2026-10-27T14:53:42.486164+00:00"
+  }
+]

@@ -1,0 +1,90 @@
+{
+  "recorded_date": "2026-10-27",
+  "fixture_sha256": "89c9d2c40b344ff35928618fe60390eec4b64eb9d22cc512d8bbbfbfc5fb9cbb",
+  "sdk": {
+    "release": "1.4.0",
+    "vendor": "75bc07e9b49",
+    "packaging_git": "5b4c8d07dfe4f089a9d1c56b8a66b75c7e5ee0c9",
+    "engine_content": "ed0d71411e76bf9558f1c4dc8078f3222e364497",
+    "dart": "3.12.0-192.0.dev"
+  },
+  "xcode": "26.6 / 17F113",
+  "build_mode": "debug",
+  "presentation": "official Light starter",
+  "ios": {
+    "model": "iPhone 17 Pro",
+    "os": "iOS 26.5",
+    "abi": "arm64",
+    "logical_size": [
+      402,
+      874
+    ],
+    "pixel_size": [
+      1206,
+      2622
+    ],
+    "input": "Native long-press/Select; actual software Shift + X/Y key taps"
+  },
+  "android": {
+    "release": "14",
+    "api": "34",
+    "abi": "arm64-v8a",
+    "size": "Physical size: 1344x2992",
+    "density": "Physical density: 480",
+    "ime": "com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME",
+    "ime_version": "14.1.04.621126403-preload-arm64-v8a",
+    "input": "Native long-press; Android input text X / Y, not software-key tapping or controller assignment"
+  },
+  "scenarios": {
+    "ios-A": {
+      "pid": 67165,
+      "initial_range": true,
+      "fresh_process": true,
+      "hot_reload_or_restart": false,
+      "event_count": 15,
+      "trace": "traces/ios-A-events.json",
+      "controller_listener_count": 2,
+      "onChanged_count": 2
+    },
+    "ios-B": {
+      "pid": 70611,
+      "initial_range": false,
+      "fresh_process": true,
+      "hot_reload_or_restart": false,
+      "event_count": 15,
+      "trace": "traces/ios-B-events.json",
+      "controller_listener_count": 2,
+      "onChanged_count": 2
+    },
+    "android-A": {
+      "pid": 4403,
+      "initial_range": true,
+      "fresh_process": true,
+      "hot_reload_or_restart": false,
+      "event_count": 18,
+      "trace": "traces/android-A-events.json",
+      "controller_listener_count": 2,
+      "onChanged_count": 2
+    },
+    "android-B": {
+      "pid": 4781,
+      "initial_range": false,
+      "fresh_process": true,
+      "hot_reload_or_restart": false,
+      "event_count": 16,
+      "trace": "traces/android-B-events.json",
+      "controller_listener_count": 2,
+      "onChanged_count": 2
+    }
+  },
+  "publication_redactions": [
+    "Local simulator UDID/name, emulator serial/AVD name, home paths, cleanup details and private source-repository metadata omitted.",
+    "No raw build/run logs, license configuration, SDK binaries or built applications included."
+  ],
+  "limits": [
+    "One qualified fresh process per initialization control/platform; no failure-rate estimate.",
+    "No Dark/OG, physical device, release, matched Flutter listener or complex composition proof.",
+    "Visible substring and actual replacement establish native range; no native offset getter or native object identity measured.",
+    "Qualified iOS A binary not separately rehashed before B replaced build; no exact A artifact-hash claim."
+  ]
+}

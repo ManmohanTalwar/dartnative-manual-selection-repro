@@ -1,0 +1,392 @@
+[
+  {
+    "sequence": 1,
+    "elapsed_us": 362,
+    "action": "mount-listener-attached",
+    "pid": 70611,
+    "initial_range": false,
+    "state": 338473171,
+    "controller": 848956463,
+    "focus_node": 582764611,
+    "text": "Unsent draft",
+    "selection": [
+      -1,
+      -1
+    ],
+    "selection_getter": [
+      -1,
+      -1
+    ],
+    "composing": [
+      -1,
+      -1
+    ],
+    "listener_count": 0,
+    "on_changed_count": 0,
+    "focused": false
+  },
+  {
+    "sequence": 2,
+    "elapsed_us": 26722293,
+    "action": "focus-requested",
+    "pid": 70611,
+    "initial_range": false,
+    "state": 338473171,
+    "controller": 848956463,
+    "focus_node": 582764611,
+    "text": "Unsent draft",
+    "selection": [
+      -1,
+      -1
+    ],
+    "selection_getter": [
+      -1,
+      -1
+    ],
+    "composing": [
+      -1,
+      -1
+    ],
+    "listener_count": 0,
+    "on_changed_count": 0,
+    "focused": true
+  },
+  {
+    "sequence": 3,
+    "elapsed_us": 28611660,
+    "action": "capture",
+    "pid": 70611,
+    "initial_range": false,
+    "state": 338473171,
+    "controller": 848956463,
+    "focus_node": 582764611,
+    "text": "Unsent draft",
+    "selection": [
+      -1,
+      -1
+    ],
+    "selection_getter": [
+      -1,
+      -1
+    ],
+    "composing": [
+      -1,
+      -1
+    ],
+    "listener_count": 0,
+    "on_changed_count": 0,
+    "focused": true
+  },
+  {
+    "sequence": 4,
+    "elapsed_us": 47943841,
+    "action": "capture",
+    "pid": 70611,
+    "initial_range": false,
+    "state": 338473171,
+    "controller": 848956463,
+    "focus_node": 582764611,
+    "text": "Unsent draft",
+    "selection": [
+      -1,
+      -1
+    ],
+    "selection_getter": [
+      -1,
+      -1
+    ],
+    "composing": [
+      -1,
+      -1
+    ],
+    "listener_count": 0,
+    "on_changed_count": 0,
+    "focused": true
+  },
+  {
+    "sequence": 5,
+    "elapsed_us": 50221311,
+    "action": "capture-5s-armed",
+    "pid": 70611,
+    "initial_range": false,
+    "state": 338473171,
+    "controller": 848956463,
+    "focus_node": 582764611,
+    "text": "Unsent draft",
+    "selection": [
+      -1,
+      -1
+    ],
+    "selection_getter": [
+      -1,
+      -1
+    ],
+    "composing": [
+      -1,
+      -1
+    ],
+    "listener_count": 0,
+    "on_changed_count": 0,
+    "focused": true
+  },
+  {
+    "sequence": 6,
+    "elapsed_us": 55224607,
+    "action": "capture-5s",
+    "pid": 70611,
+    "initial_range": false,
+    "state": 338473171,
+    "controller": 848956463,
+    "focus_node": 582764611,
+    "text": "Unsent draft",
+    "selection": [
+      -1,
+      -1
+    ],
+    "selection_getter": [
+      -1,
+      -1
+    ],
+    "composing": [
+      -1,
+      -1
+    ],
+    "listener_count": 0,
+    "on_changed_count": 0,
+    "focused": true
+  },
+  {
+    "sequence": 7,
+    "elapsed_us": 70267883,
+    "action": "controller-listener",
+    "pid": 70611,
+    "initial_range": false,
+    "state": 338473171,
+    "controller": 848956463,
+    "focus_node": 582764611,
+    "text": "Unsent X",
+    "selection": [
+      8,
+      8
+    ],
+    "selection_getter": [
+      8,
+      8
+    ],
+    "composing": [
+      -1,
+      -1
+    ],
+    "listener_count": 1,
+    "on_changed_count": 0,
+    "focused": true
+  },
+  {
+    "sequence": 8,
+    "elapsed_us": 70268557,
+    "action": "onChanged",
+    "pid": 70611,
+    "initial_range": false,
+    "state": 338473171,
+    "controller": 848956463,
+    "focus_node": 582764611,
+    "text": "Unsent X",
+    "selection": [
+      8,
+      8
+    ],
+    "selection_getter": [
+      8,
+      8
+    ],
+    "composing": [
+      -1,
+      -1
+    ],
+    "listener_count": 1,
+    "on_changed_count": 1,
+    "focused": true
+  },
+  {
+    "sequence": 9,
+    "elapsed_us": 72480223,
+    "action": "capture",
+    "pid": 70611,
+    "initial_range": false,
+    "state": 338473171,
+    "controller": 848956463,
+    "focus_node": 582764611,
+    "text": "Unsent X",
+    "selection": [
+      8,
+      8
+    ],
+    "selection_getter": [
+      8,
+      8
+    ],
+    "composing": [
+      -1,
+      -1
+    ],
+    "listener_count": 1,
+    "on_changed_count": 1,
+    "focused": true
+  },
+  {
+    "sequence": 10,
+    "elapsed_us": 113734565,
+    "action": "capture",
+    "pid": 70611,
+    "initial_range": false,
+    "state": 338473171,
+    "controller": 848956463,
+    "focus_node": 582764611,
+    "text": "Unsent X",
+    "selection": [
+      8,
+      8
+    ],
+    "selection_getter": [
+      8,
+      8
+    ],
+    "composing": [
+      -1,
+      -1
+    ],
+    "listener_count": 1,
+    "on_changed_count": 1,
+    "focused": true
+  },
+  {
+    "sequence": 11,
+    "elapsed_us": 116018754,
+    "action": "capture-5s-armed",
+    "pid": 70611,
+    "initial_range": false,
+    "state": 338473171,
+    "controller": 848956463,
+    "focus_node": 582764611,
+    "text": "Unsent X",
+    "selection": [
+      8,
+      8
+    ],
+    "selection_getter": [
+      8,
+      8
+    ],
+    "composing": [
+      -1,
+      -1
+    ],
+    "listener_count": 1,
+    "on_changed_count": 1,
+    "focused": true
+  },
+  {
+    "sequence": 12,
+    "elapsed_us": 121022639,
+    "action": "capture-5s",
+    "pid": 70611,
+    "initial_range": false,
+    "state": 338473171,
+    "controller": 848956463,
+    "focus_node": 582764611,
+    "text": "Unsent X",
+    "selection": [
+      8,
+      8
+    ],
+    "selection_getter": [
+      8,
+      8
+    ],
+    "composing": [
+      -1,
+      -1
+    ],
+    "listener_count": 1,
+    "on_changed_count": 1,
+    "focused": true
+  },
+  {
+    "sequence": 13,
+    "elapsed_us": 131650680,
+    "action": "controller-listener",
+    "pid": 70611,
+    "initial_range": false,
+    "state": 338473171,
+    "controller": 848956463,
+    "focus_node": 582764611,
+    "text": "Y X",
+    "selection": [
+      1,
+      1
+    ],
+    "selection_getter": [
+      1,
+      1
+    ],
+    "composing": [
+      -1,
+      -1
+    ],
+    "listener_count": 2,
+    "on_changed_count": 1,
+    "focused": true
+  },
+  {
+    "sequence": 14,
+    "elapsed_us": 131651673,
+    "action": "onChanged",
+    "pid": 70611,
+    "initial_range": false,
+    "state": 338473171,
+    "controller": 848956463,
+    "focus_node": 582764611,
+    "text": "Y X",
+    "selection": [
+      1,
+      1
+    ],
+    "selection_getter": [
+      1,
+      1
+    ],
+    "composing": [
+      -1,
+      -1
+    ],
+    "listener_count": 2,
+    "on_changed_count": 2,
+    "focused": true
+  },
+  {
+    "sequence": 15,
+    "elapsed_us": 133582887,
+    "action": "capture",
+    "pid": 70611,
+    "initial_range": false,
+    "state": 338473171,
+    "controller": 848956463,
+    "focus_node": 582764611,
+    "text": "Y X",
+    "selection": [
+      1,
+      1
+    ],
+    "selection_getter": [
+      1,
+      1
+    ],
+    "composing": [
+      -1,
+      -1
+    ],
+    "listener_count": 2,
+    "on_changed_count": 2,
+    "focused": true
+  }
+]

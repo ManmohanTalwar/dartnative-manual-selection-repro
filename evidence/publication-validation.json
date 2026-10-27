@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-27",
+  "scope": "Publication packaging checks; no new simulator/emulator interaction run",
+  "source_sha256": "89c9d2c40b344ff35928618fe60390eec4b64eb9d22cc512d8bbbfbfc5fb9cbb",
+  "dependency_files_match_original_repro": [
+    "pubspec.yaml",
+    "pubspec.lock",
+    "dn_plugins.lock"
+  ],
+  "checks": [
+    {
+      "command": "dn --suppress-analytics pub get --offline",
+      "result": "passed"
+    },
+    {
+      "command": "dn --suppress-analytics analyze lib",
+      "result": "passed; no issues; 1.2s"
+    },
+    {
+      "command": "dn --suppress-analytics build ios --simulator --debug --no-pub",
+      "result": "passed",
+      "xcode_seconds": 20.8
+    },
+    {
+      "command": "dn --suppress-analytics build apk --debug --no-pub",
+      "result": "passed",
+      "gradle_seconds": 11.5
+    },
+    {
+      "command": "dn --suppress-analytics build ios --simulator --debug --no-pub",
+      "reason": "After signing-team publication redaction",
+      "result": "passed",
+      "xcode_seconds": 8.1
+    }
+  ],
+  "build_variant": "Default INITIAL_RANGE=true; text-only control is the previously recorded run, unchanged source with INITIAL_RANGE=false",
+  "cli_owned_tracked_build_mutations": [
+    "ios/Runner.xcodeproj/project.pbxproj",
+    "ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme",
+    "ios/Runner.xcworkspace/contents.xcworkspacedata"
+  ],
+  "publication_native_host_policy": "Generated starter hosts, with three personal DEVELOPMENT_TEAM assignments removed before publication and from reachable Git history. No functional native fix. iOS simulator build passed again after redaction. Normal CLI-generated project/scheme/workspace mutations restored to the committed publication source; clone builds regenerate them. Generated Podfile/lock, local config and registrant are not published.",
+  "gradle_wrapper": "Official generated wrapper included; Git normalizes gradlew.bat line endings.",
+  "warnings": "Doctor PATH and Android license warning categories retained. Explicit intended SDK used; no SDK upgrade/configuration change."
+}
